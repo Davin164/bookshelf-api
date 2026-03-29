@@ -178,7 +178,7 @@ Server akan berjalan pada **http://localhost:9000**
 
 **Davin** — Information Systems Student at Universitas Sriwijaya
 - GitHub: [@Davin164](https://github.com/Davin164)
-Let's Connect
+Let's Connect and learn
 
 ## 📝 Catatan
 
